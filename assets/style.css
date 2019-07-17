@@ -1,0 +1,81 @@
+/*!
+
+ * Start Bootstrap - Full Width Pics (https://startbootstrap.com/template-overviews/full-width-pics)
+
+ * Copyright 2013-2019 Start Bootstrap
+
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full-width-pics/blob/master/LICENSE)
+
+ */
+
+ body {
+
+    padding-top: 56px;
+    background-color: lightgrey;
+  
+  }
+  
+  
+  
+  .bg-image-full {
+  
+    background: no-repeat center center scroll;
+  
+    -webkit-background-size: cover;
+  
+    -moz-background-size: cover;
+  
+    background-size: cover;
+  
+    -o-background-size: cover;
+  
+  }
+
+  .lead {
+      font-size: 23px;
+      letter-spacing: 2px;
+      position: relative;
+      text-align: center;
+  }
+  .h1, h1 {
+      text-align: center;
+      font-size: 45px;
+    
+      color: rgb(250, 121, 0);
+      padding-bottom: 8px;
+      letter-spacing: 2px;
+
+  }
+
+  .img-fluid {
+     width: 420px;
+     height: 190px;
+  }
+/* navbar styling */
+.navbar {
+    margin-left: 180px;
+    margin-right: 180px;
+
+}
+.navbar-1 {
+    color:rgb(250, 121, 0) ;
+    font-size: 35px;
+    margin-right: 55%;
+ 
+}
+
+.navbar-brand {
+    color: rgb(250, 121, 0);
+}
+.navbar-dark .navbar-brand {
+     color:rgb(250, 121, 0) ;
+     font-size: 35px;
+}
+.bg-image-full {
+    margin-left: 180px;
+    margin-right: 180px;
+}
+.py-5 {
+    margin-left: 180px;
+    margin-right: 180px;
+}

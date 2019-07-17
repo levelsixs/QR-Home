@@ -8,6 +8,7 @@
 
  */
 
+
  body {
 
     padding-top: 56px;
@@ -52,11 +53,11 @@
      height: 190px;
   }
 /* navbar styling */
-.navbar {
-    margin-left: 180px;
-    margin-right: 180px;
+/* .navbar {
+    margin-left: 30px;
+    margin-right: 30px;
 
-}
+} */
 .navbar-1 {
     color:rgb(250, 121, 0) ;
     font-size: 35px;
@@ -71,11 +72,11 @@
      color:rgb(250, 121, 0) ;
      font-size: 35px;
 }
-.bg-image-full {
+/* .bg-image-full {
     margin-left: 180px;
     margin-right: 180px;
 }
 .py-5 {
     margin-left: 180px;
-    margin-right: 180px;
+    margin-right: 180px; */
 }
